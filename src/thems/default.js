@@ -1,0 +1,20 @@
+export const defaultTheme = {
+  fontFamily: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  pagePadding: "90px",
+  pageWidth: "1280px",
+  colorForButton: "#fc9b27",
+  colorForButttonHover: "#fc7427",
+  colorBlackForText: "#333333",
+  colorWhite: "#ffffff",
+  colorLightBlueBackground: "#d8ecfe",
+  colorGreenBackground: "#88aa4d",
+  colorLightGreenBackground: "#e1edce",
+  colorRedBackground: "#f75531",
+  colorLightRedBackground: "#f8ddd7",
+  colorGrayBackground: "#f7f7f7",
+  colorBlueBackground: "#d8ecfe",
+  tabBackgroundChecked: "#88aa4d",
+  feautersItemAligenRight: "2/-1",
+  indent: "20px"
+};
